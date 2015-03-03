@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="D:/JARS/butterknife-6.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JARS/gson-2.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JARS/lombok.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JARS/okhttp-2.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JARS/okhttp-urlconnection-2.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JARS/okio-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JARS/retrofit-1.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kthakur/Desktop/New folder (2)/jar/eventbus-2.4.0.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
